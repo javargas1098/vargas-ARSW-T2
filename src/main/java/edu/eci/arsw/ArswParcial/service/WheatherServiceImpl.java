@@ -1,4 +1,4 @@
-package edu.eci.arsw.ArwsParcial.service;
+package edu.eci.arsw.ArswParcial.service;
 
 import java.io.IOException;
 import org.springframework.beans.factory.annotation.Autowired;

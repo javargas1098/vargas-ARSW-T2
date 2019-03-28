@@ -1,4 +1,4 @@
-package edu.eci.arsw.ArwsParcial.controller;
+package edu.eci.arsw.ArswParcial.controller;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import edu.eci.arsw.ArwsParcial.service.WheatherServices;
+import edu.eci.arsw.ArswParcial.service.WheatherServices;
 
 
 /**
