@@ -21,7 +21,7 @@ apiclient = (function() {
 	        }
 	    }).catch(function (error) {
 	        console.log(error);
-	        alert("Ciudad no encotrada");
+	        alert("error");
 	    });
 	}
 	}
