@@ -1,7 +1,8 @@
 # vargas-ARSW-T2
 ## Javier Vargas
 ### Aplicación en Heroku
- - [Link no disponible, correr localmente]()
+ - [Link no disponible, correr localmente]() 
+ - heroku estaba caido
  - puerto 8080
 ---
 #### Descripción arquitectura
