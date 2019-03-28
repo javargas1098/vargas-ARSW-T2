@@ -3,7 +3,7 @@
 ### Aplicación en Heroku
  - [Link no disponible, correr localmente]() 
  - heroku estaba caido
- - puerto 8080
+ - correr localmante puerto 8080
 ---
 #### Descripción arquitectura
 la aplicacion ofrece servicios para poder saber el lcima de una ciudad en especifico
